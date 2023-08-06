@@ -1,0 +1,36 @@
+Sem banco de dados
+Questão 1:
+ ° O primeiro teste, ele testa com os valores dados na questão, funcionando normalmente, com duas pessoas maior nota
+ ° O segundo, ele testa com uma pessoa acima da média
+ ° O terceiro, é ele vazio
+ 	Fizemos esse testes para ver se ele está colocando os nomes e notas corretamente, tanto de duas pessoas, quanto individualmente
+
+Questão 3: 
+ ° O primeiro teste, ele testa com os valores dados na questão, funcionando normalmente
+ 	Fizemos esse teste para ver se a média está retornando de forma funcional
+ ° O segundo teste, ele testa com o vazio
+	Fizemos esse teste para ver ele testanco com o vazio
+
+Questão 4:
+ ° O primeiro teste, ele testa com os valores dados na questão, funcionando normalmente
+ 	Fizemos esse teste para ver se a média está retornando de forma funcional
+ ° O segundo teste, ele testa com o vazio
+	Fizemos esse teste para ver ele testanco com o vazio
+
+Com Banco de Dados
+Questão 1:
+ ° O primeiro teste é procurando a maior média da turma
+ ° Os próximos testes ele testa com outros nomes que não existem
+ 	 Fizemos esses testes para testar ele buscando um nome que existe no banco, e quem não existe
+Questão 2:
+ ° O primeiro teste ele lista o nome e a média final da aluna Carla com sucesso
+	Fizemos esse para testar se ele está retornando os valores corretos
+ ° O segundo e o terceiro ele testa com alunos que está na materia
+	O segundo e o terceiro, fizemos para verificar se ele não busca coisas que não existem no banco
+Questão 3:
+ ° O primeiro teste ele lista a quantidade de diciplinas feitas por Carla
+	Fizemos esse para testar se ele está retornando os valores corretos
+ ° O segundo teste ele testa com um aluno que não existe
+ ° O segundo e o terceiro ele testa com alunos que está na materia
+	O segundo e o terceiro, fizemos para verificar se ele não busca coisas que não existem no banco
+ 
